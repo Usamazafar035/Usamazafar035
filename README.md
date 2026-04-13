@@ -46,13 +46,15 @@ Built predictive models for forecasting sales trends and supporting business pla
 
 ## 🛠️ Tech Stack
 
-💡 BI & Visualization: Power BI, DAX
-🗄️ Data & Querying: SQL, T-SQL, Data Modeling
-⚙️ ETL & Data Engineering: SSIS, AFD, Microsoft Fabric
-🏢 ERP Systems: Microsoft Dynamics 365 (F&O)
-📊 Data Architecture: Data Warehousing, ETL Design
-🐍 Programming: Python
-📂 Tools: Excel, Power Query, PL-300 Certified Knowledge
+Here’s a cleaner, more professional version while keeping your style:
+
+* 💡 **BI & Visualization:** Power BI, DAX
+* 🗄️ **Data & Querying:** SQL, T-SQL, Data Modeling
+* ⚙️ **ETL & Data Engineering:** SSIS, ADF (Azure Data Factory), Microsoft Fabric
+* 🏢 **ERP Systems:** Microsoft Dynamics 365 (Finance & Operations)
+* 📊 **Data Architecture:** Data Warehousing, ETL Design
+* 🐍 **Programming:** Python
+* 📂 **Tools & Certifications:** Excel, Power Query, PL-300 Certified Knowledge
 
 ## 📬 Let’s Connect
 
