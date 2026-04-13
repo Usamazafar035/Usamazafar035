@@ -54,6 +54,8 @@ Built predictive models for forecasting sales trends and supporting business pla
 ✔ Improved demand forecasting accuracy  
 ✔ Enabled proactive decision-making  
 
+---
+
 ### 🏥 [Healthcare – Patient Journey & KPI Tracking Dashboard](#)
 Healthcare analytics solution designed to monitor patient flow across multiple treatment stages.
 
