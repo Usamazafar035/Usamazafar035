@@ -58,7 +58,7 @@ Built predictive models for forecasting sales trends and supporting business pla
 
 💼 I’m open to opportunities in **Business Intelligence, Data Engineering, ETL Development, and Enterprise Reporting Solutions**.
 
-* 🔗 **LinkedIn:** Usama Zafar
+* 🔗 **LinkedIn:** [Usama Zafar](https://www.linkedin.com/in/usama-zafar-689124240/)
 * 📧 **Email:** [usamabhutta035@gmail.com](mailto:usamabhutta035@gmail.com)
 * 💬 **WhatsApp:** +92 302 6059857
 
