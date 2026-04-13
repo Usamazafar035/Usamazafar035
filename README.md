@@ -1,11 +1,11 @@
 ## 👋 Hi, I'm Usama Zafar
 
-**💼 BI Engineer | Data Analyst | ETL Developer | D365 F&O Specialist**
+💼 **BI Engineer | Data Analyst | ETL Developer | D365 F&O Specialist**
 
-📊 Experienced in Business Intelligence, data engineering, reporting, and enterprise analytics
-🚀 Passionate about transforming raw data into scalable, efficient, and insight-driven BI solutions
+📊 Experienced in **Business Intelligence**, **Data Engineering**, **Reporting**, and **Enterprise Analytics**  
+🚀 Passionate about transforming **raw data** into **scalable, efficient, and insight-driven BI solutions**
 
-I specialize in building end-to-end analytics systems that help organizations turn complex data into clear, actionable insights for better decision-making across finance, sales, and operations.
+I specialize in building **end-to-end analytics systems** that help organizations turn complex data into **clear, actionable insights** for better decision-making across **Finance, Sales, and Operations**.
 
 ## 🔍 What I Do
 
