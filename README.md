@@ -58,8 +58,11 @@ Here’s a cleaner, more professional version while keeping your style:
 
 ## 📬 Let’s Connect
 
-I'm open to opportunities in Business Intelligence, Data Engineering, ETL Development, and Enterprise Reporting Solutions.
+Here’s a cleaner, professional version for your profile:
 
-🔗 LinkedIn: Usama Zafar
-📧 Email: usamabhutta035@gmail.com
-💬 WhatsApp: +92 302 6059857
+💼 I’m open to opportunities in **Business Intelligence, Data Engineering, ETL Development, and Enterprise Reporting Solutions**.
+
+* 🔗 **LinkedIn:** Usama Zafar
+* 📧 **Email:** [usamabhutta035@gmail.com](mailto:usamabhutta035@gmail.com)
+* 💬 **WhatsApp:** +92 302 6059857
+
