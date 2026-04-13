@@ -19,7 +19,7 @@ I specialize in building **end-to-end analytics systems** that help organization
 
 ## 📊 Featured Projects
 
-**🔷 📦 Inventory Performance Analysis – Power BI**
+<h3 style="color:blue;">📦 Inventory Performance Analysis – Power BI</h3>
 
 Built a complete analytics solution to monitor inventory movement, stock health, and slow-moving items.  
 ✔ Improved stock visibility across warehouses  
