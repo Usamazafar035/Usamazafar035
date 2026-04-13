@@ -19,26 +19,26 @@ I specialize in building end-to-end analytics systems that help organizations tu
 
 ## 📊 Featured Projects
 
-📦 **Inventory Performance Analysis – Power BI**
+<h2 style="color:#38bdf8;"><b>📦 Inventory Performance Analysis – Power BI</b></h2>
 
 Built a complete analytics solution to monitor inventory movement, stock health, and slow-moving items.  
 ✔ Improved stock visibility across warehouses  
 ✔ Helped optimize procurement and reduce dead stock  
 
-📈 **Sales Performance Dashboard – Power BI**
+<h2 style="color:#38bdf8;"><b>📈 Sales Performance Dashboard – Power BI</b></h2>
 
 Developed an executive-level dashboard for sales tracking and performance monitoring.  
 ✔ KPI tracking (Actual vs Target)  
 ✔ Regional, product, and customer-level insights  
 ✔ Trend analysis and variance reporting  
 
-🧠 **Data Quality & Anomaly Detection – SQL (T-SQL)**
+<h2 style="color:#38bdf8;"><b>🧠 Data Quality & Anomaly Detection – SQL (T-SQL)</b></h2>
 
 Created automated SQL checks to detect anomalies and inconsistencies in business data.  
 ✔ Improved data reliability and governance  
 ✔ Reduced reporting errors through validation logic  
 
-🔮 **Sales Forecasting – Python**
+<h2 style="color:#38bdf8;"><b>🔮 Sales Forecasting – Python</b></h2>
 
 Built predictive models for forecasting sales trends and supporting business planning.  
 ✔ Improved demand forecasting accuracy  
