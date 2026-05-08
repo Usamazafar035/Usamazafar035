@@ -13,7 +13,7 @@ I specialize in building **end-to-end analytics systems** that help organization
 
 * Design and develop interactive **Power BI dashboards** and **BI solutions**
 * Build scalable **data models** using **DAX**, **SQL**, and **T-SQL**
-* Develop and optimize **ETL pipelines** using **SSIS**, **Azure Data Factory (ADF)**, and **Microsoft Fabric**
+* Develop and optimize **ETL/ELT pipelines** using **SSIS**, **Azure Data Factory (ADF)**, **Databricks and Microsoft Fabric**
 * Work with **Microsoft Dynamics 365 (Finance & Operations)**
 * Design and implement **data warehouse solutions**
 * Perform **data cleaning, transformation, and performance optimization**
@@ -70,10 +70,10 @@ Healthcare analytics solution designed to monitor patient flow across multiple t
 
 * 💡 **BI & Visualization:** Power BI, DAX  
 * 🗄️ **Data & Querying:** SQL, T-SQL, Data Modeling  
-* ⚙️ **ETL & Data Engineering:** SSIS, ADF, Microsoft Fabric  
+* ⚙️ **ETL & Data Engineering:** SSIS, ADF, Microsoft Fabric, Databricks 
 * 🏢 **ERP Systems:** Microsoft Dynamics 365 (F&O)  
 * 📊 **Data Architecture:** Data Warehousing, ETL Design  
-* 🐍 **Programming:** Python  
+* 🐍 **Programming:** Python/Pyspark
 * 📂 **Others:** Excel, Power Query, PL-300 Certified  
 
 ---
